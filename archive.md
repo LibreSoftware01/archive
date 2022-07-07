@@ -1,24 +1,28 @@
-- **Son Değiştirilme Tarihi: _13 Haziran 2022_**
+- **Son Değiştirilme Tarihi: _7 Temmuz 2022_**
 
 **Not;**
 Arşiv sürekli güncellenecektir. Son güncelleme tarihi başlıkta yazmakta. Sunucunun davet linkleri en altta mevcuttur.
 
-# 🗽 Özgür Yazılım Ve Mülk Yazılım Farkı
+# 🗽 Özgür Yazılım Nedir ?
 
-Özgür yazılım kaynak kodu okunabilen, değiştirilebilen ve topluluk tarafından geliştirilebilen özel mülk olmayan yazılımlara denir. Özgür olmayan yazılım olarak da adlandırılan özel mülk yazılım; kullanıcıların özgürlüğüne ve topluluğa saygı duymayan yazılımlar anlamına gelir. Özel mülk bir program, geliştiricisinin veya sahibinin kullanıcıları üzerinde bir iktidar kurmasına yol açar. Bu iktidar özünde bir adaletsizliktir.
-
-Güç yozlaştırır; özel mülk programın geliştiricisi, programı kullanıcılarına kötü muamele yapacak şekilde tasarlama eğilimindedir. (İşleyişi kullanıcıya kötü davranan yazılımlara kötücül yazılım denir.) Tabii ki geliştirici bunu genellikle kötülüğünden dolayı yapmaz, onun yerine kullanıcıların pahasına daha fazla kâr elde etmek için yapar. Bu onu daha az kötü ya da daha meşru yapmaz.
-
-- [Kaynak](https://www.gnu.org/proprietary/proprietary.tr.html)
+Özgür yazılım kaynak kodu okunabilen, değiştirilebilen ve topluluk tarafından geliştirilebilen yazılımlara denir.
 
 # 📚 Kaynaklar
 
 ## 📚 Genel
 
+- **The Anarchist Library**
+Farklı dillerde kaynaklar ve makaleler bulabileceğiniz anarşist kütüphane.Kitap yapıcı bulunmakta.Güvenlik Sorusunun cevabı "Emma".
+[Web Sayfası](https://tr.anarchistlibraries.net/special/index)
+  [İngilizce](https://theanarchistlibrary.org/special/index)
+  - [Tor Onion bağlantısı](http://anarsizmhxyuq7nfuw2hirvflh2ly2p3ddczsnmxmbsn73rgiyytpyqd.onion/)
+
 - **Anarcho Copy**
   Anarşist bir kütüphane. İçinde kitaplardan, programlamaya kadar bir sürü kaynak var.
+    [Web Sayfası](https://anarcho-copy.org)
   - [EDU](https://edu.anarcho-copy.org/)
     - [Tor Onion bağlantısı](http://educate6mw6luxyre24uq3ebyfmwguhpurx7ann635llidinfvzmi3yd.onion/)
+
 
 ## 📚 İşletim Sistemleri
 
@@ -245,6 +249,12 @@ LMMS, kullanıcıların melodiler, vuruşlar ve FL Studio gibi diğer müzik tü
 • [Ana Sayfa](https://lmms.io)
 
 # 🎞 Oynatıcı
+
+## 🎞Tauon Music Box
+Tauon Music Box minimalist bir müzik oynatıcıdır.Müziklerinizin olduğu dosyayı sürükle bırak yaparak kolayca ekleyebilirsiniz. Menü kısmından playlist görünümü ve tema ayarlanabilir.Windows için "Installation" veya "Releases" kısmından son sürümü indirebilirsiniz.Linux'ta ise Flathub üzerinden yükleyebilirsiniz ayrıca AUR üzerinde mevcuttur.
+(Platform:Linux-Windows)
+- [GitHub Sayfası](https://github.com/Taiko2k/TauonMusicBox)
+
 
 ## 🎞 Nuclear
 
@@ -475,6 +485,11 @@ Youtube beğenmeme butonunu geri getirin. Bu eklenti ile görünmeyen beğenmeme
 - [Ana Sayfa](https://dar.vin/lK8lj)
 - [İnceleme](https://dar.vin/er2w2)
 
+##  🎮 Osu!
+Osu!,Dean Herbert tarafından 2007 yılında çıkarılmış açık kaynak kodlu bir ritim oyunudur ve günümüze kadar güncellenmeye devam etmiştir.Fare ile haraket eden ritim baloncuklarına tıklayıp takip ederek oynanır.Kendi oyun bölümlerinizide oluşturabilirsiniz.
+
+- [Ana Sayfa](https://osu.ppy.sh/home)
+
 ## 🎮 Supertux Kart
 
 **Supertux Kart**, tek kişi ve çok oyunculu oynayabileceğiniz bir yarış oyunu. İçinde farklı oyun modları mevcut futbol bayrak kapmaca gibi. Oyunda karakter olarak `krita`, `GIMP` gibi yazılımların maskotları kullanılmış. Kart yarışı oyunlarını seviyorsanız beğeniceğinize eminim. Türkçe dil desteği mevcut.
@@ -518,6 +533,12 @@ Unreal Engineye genel arayüz ve sahne yapısı olarak benzeyen, _"Visual Script
 
 # 🧰 Diğer
 
+## 🧰 SearX
+Google alternatifi açık kaynak kodlu kendi sunucunuza kurabileceğiniz gizlilik dostu arama motoru.Tor üzerinden veya vpn ile bağlandığınızda captcha gibi şeylerle sizi uğraştırmaz.
+- [Ana Sayfa](https://searx.xyz)
+- [Sunucu Listesi](https://searx.space)
+- [Sunucuya Nasıl Kurulur ?](https://www.youtube.com/watch?v=jSlbEAp0EaQ)
+
 ## 🧰 PeerTube
 
 **PeerTube** özgür bir youtube alternatifi. _"Matrix"_ gibi dağınık _(Ana sunucu bulunmayan)_ yapıda olduğundan, youtubeda ki gibi kullanıcılar hoşlanmayacağı şeylere zorlanmıyor. Reklam yok sunucular bağışlar ile yürüyor
@@ -529,6 +550,12 @@ Unreal Engineye genel arayüz ve sahne yapısı olarak benzeyen, _"Visual Script
 **Darvin** açık kaynak kodlu minimal bir link kısaltıcısı
 
 - [Ana Sayfa](https://dar.vin/)
+
+## 🧰 Nitter
+**Nitter** Açık kaynak kodlu Twitter görüntüleyicisidir.Twitter profillerine hesaba giriş yapma zorlaması olmadan bakabilirsiniz.
+ - [GitHub Sayfası](https://github.com/zedeus/nitter)
+ - [Nitter Sunucuları Listesi](https://github.com/zedeus/nitter/wiki/Instances)
+
 
 # 💎Özgür Yazılım Davet Linki
 
